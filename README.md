@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 ###### Sobre o Pedro
-1 ano de experiência no desenvolvimento web de projetos, com o uso de diversas tecnologias.
+2 anos de experiência no desenvolvimento web de projetos, com o uso de diversas tecnologias.
 
 ### Detalhes
 
