@@ -5,26 +5,30 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrotiburcio&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrotiburcio&show_icons=true&theme=dark)](https://github.com/pedrotiburcio)
 
-### Projetos
+---
 
-### Análise de dados
-[![Readme Card](https://github.com/pedrotiburcio/sql-data-warehouse-project)](https://github.com/anuraghazra/github-readme-stats)
+### 📂 Projetos em Destaque
 
-#### Front-end
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotiburcio&repo=efood&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotiburcio&repo=eplay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotiburcio&repo=clone_disneyplus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+#### 📊 Análise de Dados
+[![Card do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=pedrotiburcio&repo=sql-data-warehouse-project&theme=dark)](https://github.com/pedrotiburcio/sql-data-warehouse-project)
 
-#### Back-end
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotiburcio&repo=bookstore&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotiburcio&repo=mysite&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+#### 💻 Front-end
+[![Card do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=pedrotiburcio&repo=efood&theme=dark)](https://github.com/pedrotiburcio/efood)
+[![Card do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=pedrotiburcio&repo=eplay&theme=dark)](https://github.com/pedrotiburcio/eplay)
+[![Card do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=pedrotiburcio&repo=clone_disneyplus&theme=dark)](https://github.com/pedrotiburcio/clone_disneyplus)
 
-### Linguagens utilizadas
+#### ⚙️ Back-end
+[![Card do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=pedrotiburcio&repo=bookstore&theme=dark)](https://github.com/pedrotiburcio/bookstore)
+[![Card do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=pedrotiburcio&repo=mysite&theme=dark)](https://github.com/pedrotiburcio/mysite)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotiburcio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-### Contatos
+### 🚀 Linguagens mais utilizadas
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/pedro-tiburcio/)
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotiburcio&layout=compact&theme=dark)](https://github.com/pedrotiburcio)
+
+### 📞 Contatos
+
+[<img src='
