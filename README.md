@@ -1,25 +1,43 @@
-## Olá! Me chamo Pedro Tibúrcio 👋 
+# 👨🏻‍💻 Pedro Tibúrcio 
+ 
+### **`Analista de Dados`**
+- 💻 Graduado em Ciência da Computação - UFCG.
+- 📈 Hoje trabalho com **Análise de Dados**.
+- 🎯 Atualmente desenvolvo projetos utilizando tecnologias como **SQL, Power BI, Excel e Python**.
 
-- 🔭 Hoje trabalho com **Análise de Dados**.
-- 🌱 Atualmente estou desenvolvendo projetos utilizando tecnologias como **SQL, Power BI, Excel e Python**.
+---
+
+### 🤖 Linguagens e Tecnologias 
+
+<div style="display: inline_block"><br/>
+  <img align="left" alt="SQL" title="SQL" height="30" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-sql-server.svg"/>
+  <img align="left" alt="PowerBI" title="Power BI" height="30" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg"/>
+  <img align="left" alt="Excel" title="Excel" height="30" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-excel.svg"/>
+  <img align="left" alt="Python" title="Python" height="30" width="30" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="left" alt="Git" title="Git" height="30" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img align="left" alt="JavaScript" title="JavaScript" height="30" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="left" alt="TypeScript" title="TypeScript" height="30" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img align="left" alt="React" title="React" height="30" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+</div>
+<br/>
+
+##
+
+### 📊 Estatísticas 
 
 <div>
-  <a href="https://github.com/pedrotiburcio">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=pedrotiburcio&show_icons=true&theme=radical">
+  <a href="https://github.com/pedrotiburcio"/>
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=pedrotiburcio&show_icons=true&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>  
-  <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-sql-server.svg">
-  <img align="center" alt="Pedro-PowerBI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg">
-  <img align="center" alt="Pedro-Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-excel.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+##
 
-## 
+### 📱 Contato 
+
 <div>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   &nbsp;
   <a href="mailto:pedrotiburcio10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
 </div>
