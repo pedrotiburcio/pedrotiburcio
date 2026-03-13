@@ -1,7 +1,7 @@
 ## Olá! Me chamo Pedro Tibúrcio 👋 
 
-- 🔭 Hoje trabalho com Análise de Dados
-- 🌱 Atualmente estou desenvolvendo projetos utilizando tecnologias como SQL, Power BI, Excel e Python.
+- 🔭 Hoje trabalho com **Análise de Dados**.
+- 🌱 Atualmente estou desenvolvendo projetos utilizando tecnologias como **SQL, Power BI, Excel e Python**.
 
 <div>
   <a href="https://github.com/pedrotiburcio">
