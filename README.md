@@ -8,7 +8,6 @@
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=pedrotiburcio&show_icons=true&theme=radical">
 </div>
 
-## 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-sql-server.svg">
   <img align="center" alt="Pedro-PowerBI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg">
